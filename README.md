@@ -26,7 +26,7 @@ A fully optimized and immersive oxy delivery job script for QBCore-based FiveM s
    ```cfg
    ensure Zerx-oxyruns
 
-## you can change the location of the ped in the config.lua
+you can change the location of the ped in the config.lua
 
 
 
