@@ -3,6 +3,7 @@
 A fully optimized and immersive oxy delivery job script for QBCore-based FiveM servers. Players can pick up packages from suppliers, deliver them to random locations, get paid, and receive bonus loot with built-in police checks, cooldown timers, and `interact` support.
 
 ---
+Video link : https://www.youtube.com/watch?v=Rx26KPJms8Y
 
 ## 📦 Features
 
