@@ -18,6 +18,11 @@ Video link : https://www.youtube.com/watch?v=Rx26KPJms8Y
 - 🧠 Integrated with `interact` for cleaner performance
 - 🧩 Fully configurable for blips, NPCs, vehicles & peds
 
+## 🧩 Dependencies
+
+- [`qb-core`](https://github.com/qbcore-framework/qb-core)
+- [`qb-inventory`](https://github.com/qbcore-framework/qb-inventory)
+- [`interact`](https://github.com/darktrovx/interact)
 ---
 
 ## 📁 Installation
