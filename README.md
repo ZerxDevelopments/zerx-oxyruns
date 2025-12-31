@@ -1,3 +1,6 @@
+# NoPixel 4.0 Inspired
+
+
 # 🚚 Zerx-oxyruns | QBCore Oxy Delivery Script
 
 A fully optimized and immersive oxy delivery job script for QBCore-based FiveM servers. Players can pick up packages from suppliers, deliver them to random locations, get paid, and receive bonus loot with built-in police checks, cooldown timers, and `interact` support.
@@ -37,3 +40,4 @@ you can change the location of the ped in the config.lua
 
 
 ["oxypackage"] 				     = {["name"] = "oxypackage", 			 	    ["label"] = "Drugs Package", 		    ["weight"] = 5000, 	["type"] = "item", 		["image"] = "package.png", 				["unique"] = false, 		["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = ""},
+
