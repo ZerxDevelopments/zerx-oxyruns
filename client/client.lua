@@ -126,7 +126,7 @@ function SpawnSupplier()
     OnDelivery = true
 
     exports.interact:AddInteraction({
-        coords = vector3(loc.x, loc.y, loc.z - 1.0),
+        coords = vector3(loc.x, loc.y, loc.z - 0.2),
         name = "zerx-takeoxypackages",
         distance = 2.0,
         interactDst = 2.0,
@@ -352,3 +352,4 @@ end
 RegisterNetEvent('zerx-oxyruns:collect', function()
     Collect()
 end)
+
