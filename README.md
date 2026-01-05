@@ -22,7 +22,7 @@ Video link : https://www.youtube.com/watch?v=Rx26KPJms8Y
 
 - [`qb-core`](https://github.com/qbcore-framework/qb-core)
 - [`qb-inventory`](https://github.com/qbcore-framework/qb-inventory)
-- [`ox_inventory`]([https://github.com/darktrovx/interact](https://github.com/overextended/ox_inventory))
+- [`ox_inventory`](https://github.com/overextended/ox_inventory))
 - [`interact`](https://github.com/darktrovx/interact)
 ---
 
@@ -38,6 +38,7 @@ you can change the location of the ped in the config.lua
 
 
 ["oxypackage"] 				     = {["name"] = "oxypackage", 			 	    ["label"] = "Drugs Package", 		    ["weight"] = 5000, 	["type"] = "item", 		["image"] = "package.png", 				["unique"] = false, 		["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = ""},
+
 
 
 
